@@ -1,5 +1,5 @@
-# mini-project
-technocolabs internship
+# Mini-project
+# Technocolabs internship
 
 
 ## Mini Project 1- Dr. Semmelweis and the Discovery of Handwashing
